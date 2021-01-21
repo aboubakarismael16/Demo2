@@ -65,6 +65,7 @@ func giveForks(diners []int) []int {
 
 	}
 	workForks = append(workForks,first,second,third)
+	fmt.Println("Get Forks")
 	fmt.Println(workForks)
 	return workForks
 }
