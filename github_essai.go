@@ -10,7 +10,7 @@ func main() {
 
 	godotenv.Load()
 
-	color.Blue.Println("Chad my country")
-	color.Yellow.Println("Chad my country")
-	color.Red.Println("Chad my country")
+	color.Blue.Println("Chad is my country")
+	color.Yellow.Println("Chad is my country")
+	color.Red.Println("Chad is my country")
 }
